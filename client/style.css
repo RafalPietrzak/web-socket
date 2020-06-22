@@ -104,6 +104,10 @@ p {
   background: #3498db;
 }
 
+.message--bot .message__content {
+  background: #63db34;
+}
+
 .show {
   display: block;
 }
